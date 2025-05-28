@@ -10,7 +10,7 @@
 ### 🤝 Let's connect or collaborate!
 - 💬 Languages I speak: English, Spanish, Portuguese (learning), Hindi, Punjabi 
 - 🔗 LinkedIn: [linkedin.com/in/shaansekhon](https://www.linkedin.com/in/shaansekhon/)
-- 🧪 Fun fact: I'm building tools to auto-label and fix soccer footage, and I once trained a model that spotted mislabeled balls 👟📹
+- 🧪 Fun fact: I'm building tools to auto-label and fix soccer footage, and I once trained a model that spotted mislabeled balls 👟
 
 <!-- GitHub Stats -->
 ![Shaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaan11s&show_icons=true&theme=radical)
