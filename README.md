@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋 I'm Shaan Sekhon
 
-<!--
-**shaan11s/shaan11s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Master’s student in Computer Science at UT Dallas (📍Graduating Dec 2025)  
+📈 Background in Marketing & Digital Content | Passionate about AI, Web Dev, and Soccer Analytics  
+🔍 Currently working on: A computer vision app for soccer stats using YOLO + SoccerNet  
+🧠 Always learning: NLP, ML, MIPS Assembly, Portuguese 🇧🇷 & Spanish 🇲🇽  
+📸 Building with: Python, JavaScript, MySQL, HTML/CSS, Flask, React, NumPy, and more  
+⚽ Weekly soccer player | Vintage tech fan (ask me about the iPhone 3GS camera 😄)
 
-Here are some ideas to get you started:
+### 🤝 Let's connect or collaborate!
+- 💬 Languages I speak: English, Spanish, Portuguese (learning), Hindi, Punjabi 
+- 🔗 LinkedIn: [linkedin.com/in/shaansekhon](https://www.linkedin.com/in/shaansekhon/)
+- 🧪 Fun fact: I'm building tools to auto-label and fix soccer footage, and I once trained a model that spotted mislabeled balls 👟📹
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GitHub Stats -->
+![Shaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaan11s&show_icons=true&theme=radical)
+
