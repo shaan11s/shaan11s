@@ -3,7 +3,7 @@
 🎓 I'm a Master’s student in Computer Science at UT Dallas (📍Graduating Dec 2025)  
 📈 Background in Marketing & Digital Content | Passionate about AI, Web Dev, and Soccer Analytics  
 🔍 Currently working on: A computer vision app for soccer stats using YOLO + SoccerNet  
-🧠 Always learning: NLP, ML, MIPS Assembly, Portuguese 🇧🇷 & Spanish 🇲🇽  
+🧠 Always learning: NLP, ML, Portuguese 🇧🇷 & Spanish 🇲🇽  
 📸 Building with: Python, JavaScript, MySQL, HTML/CSS, Flask, React, NumPy, and more  
 ⚽ Weekly soccer player | Vintage tech fan (ask me about the iPhone 3GS camera 😄)
 
